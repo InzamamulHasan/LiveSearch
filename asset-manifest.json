@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LiveSearch/static/css/main.2a8c6534.css",
+    "main.js": "/LiveSearch/static/js/main.fe106e68.js",
+    "index.html": "/LiveSearch/index.html",
+    "main.2a8c6534.css.map": "/LiveSearch/static/css/main.2a8c6534.css.map",
+    "main.fe106e68.js.map": "/LiveSearch/static/js/main.fe106e68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a8c6534.css",
+    "static/js/main.fe106e68.js"
+  ]
+}
